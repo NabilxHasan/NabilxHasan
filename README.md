@@ -6,10 +6,10 @@
   </a>
 </p>
 
-<!-- Anime / Cyberpunk Banner -->
+<!-- Anime Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=BUILD.%20BREAK.%20REBUILD.&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Anime Cyberpunk Banner">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="100%" alt="Anime Coding Banner">
 </p>
 
 ## About Me
@@ -34,34 +34,20 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/1-repos-per-language.svg">
-    <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Most Used Languages">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/3-stats.svg">
     <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/1-repos-per-language.svg">
+    <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Most Used Languages">
   </picture>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=NabilxHasan&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
-<br>
-
-## Most Used Languages
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/1-repos-per-language.svg">
-    <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Most Used Languages">
-  </picture>
 </p>
 
 <br>
@@ -99,22 +85,6 @@ GameDev         ████████████░░░░░░░░░
 ```
 
 <br>
-
-## Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/NabilxHasan/fieldline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NabilxHasan&repo=fieldline&theme=tokyonight&hide_border=true" alt="Fieldline">
-</a>
-
-</p>
-
-<br>
-
-<p align="center">
-  <i>「 The best way to predict the future is to build it. 」</i>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Footer">
