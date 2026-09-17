@@ -33,10 +33,8 @@
 
 ---
 
-## Connect With Me
-
 <p align="center">
-  <a href="www.linkedin.com/in/nabilxhasan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilxHasan&layout=donut&theme=tokyonight&hide_border=true"
+  />
 </p>
