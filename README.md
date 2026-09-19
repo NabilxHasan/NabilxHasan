@@ -1,26 +1,10 @@
-<h1 align="center">Hi, I'm Nabil Hasan Jami</h1>
+<h1 align="center">Hi, I'm Nabil</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+AI+Agents;CTF+%26+Cybersecurity;Backend+%26+Systems;Forward+Deployed+Engineer+in+Progress;Always+Building+Something" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Enthusiast;Building+AI+Harness;Code+%26+Eat;Sleep+%26+Repeat;Forward+Deployed+Engineer+in+Progress;El+Psy+Kongroo" alt="Typing SVG">
   </a>
 </p>
-
-<!-- Anime Banner -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="100%" alt="Anime Coding Banner">
-</p>
-
-## About Me
-
-* CSE student at the University of Dhaka
-* Interested in AI agents, cybersecurity, backend systems and automation
-* CTF player and builder of security-focused AI tools
-* Exploring Forward Deployed Engineering
-* Currently building projects instead of just collecting tutorials
-
-<br>
 
 ## Boot.dev
 
@@ -46,10 +30,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NabilxHasan&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
-
 <br>
 
 ## Contribution Snake
@@ -71,20 +51,6 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,tailwind,nodejs,git,github,linux,ubuntu,docker,firebase,flutter,figma,godot&perline=10">
 
 </p>
-
-<br>
-
-## Currently Building
-
-```text
-AI Agents       ███████████████████░░
-Cybersecurity   ██████████████████░░░
-Backend         ████████████████░░░░░
-Systems         ███████████████░░░░░░
-GameDev         ████████████░░░░░░░░░
-```
-
-<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Footer">
